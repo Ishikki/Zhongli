@@ -74,15 +74,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hi {}, my name is Zhongli! 
-I am a Genshin Impact themed group management bot.
+Hi {}, my name is Ruka! 
+I am a news reporting bot.
 
 You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a modular group management bot and help admins to manage their groups. Have a look at the following for an idea of some of \
+I'm a news bot and can send news about anime, manga and games. Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
